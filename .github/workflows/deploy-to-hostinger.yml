@@ -1,0 +1,90 @@
+name: Deploy Website to Hostinger
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run check (test SFTP connection and report files without modifying Hostinger server)'
+        required: false
+        default: false
+        type: boolean
+  push:
+    branches:
+      - main
+    paths:
+      - '*.html'
+      - 'css/**'
+      - 'js/**'
+      - 'assets/**'
+      - 'data/jobs.json'
+      - 'favicon.ico'
+      - '.htaccess'
+      - '.github/workflows/deploy-to-hostinger.yml'
+
+concurrency:
+  group: hostinger-production-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    name: Build & Deploy to Hostinger
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Verify production integrity before packaging
+      - name: Verify Dataset Integrity
+        run: |
+          python -c "
+          import json
+          with open('data/jobs.json', 'r', encoding='utf-8') as f:
+              jobs = json.load(f)
+          print(f'Verified {len(jobs)} total jobs in data/jobs.json')
+          historical = [j for j in jobs if j.get('is_historical')]
+          assert len(historical) == 20, f'Expected 20 historical listings, found {len(historical)}'
+          print('Preserved historical listing check passed.')
+          "
+
+      # Package only production website files into _site/
+      - name: Package Clean Production Distribution (_site/)
+        run: |
+          python pipeline/prepare_dist.py
+
+      # Verify Secrets Configuration
+      - name: Check Hostinger Credentials Configuration
+        id: check_creds
+        run: |
+          if [ -z "${{ secrets.HOSTINGER_SFTP_HOST }}" ] || [ -z "${{ secrets.HOSTINGER_SFTP_USERNAME }}" ]; then
+            echo "::error title=Missing Hostinger Secrets::Required secrets HOSTINGER_SFTP_HOST and/or HOSTINGER_SFTP_USERNAME are not configured in GitHub repository Settings -> Secrets and variables -> Actions."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            exit 1
+          else
+            echo "Hostinger deployment credentials verified."
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Deploy to Hostinger via SFTP
+      - name: Deploy Production Files via SFTP
+        if: steps.check_creds.outputs.configured == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.HOSTINGER_SFTP_HOST }}
+          username: ${{ secrets.HOSTINGER_SFTP_USERNAME }}
+          password: ${{ secrets.HOSTINGER_SFTP_PASSWORD }}
+          ssh-private-key: ${{ secrets.HOSTINGER_SFTP_KEY }}
+          port: ${{ secrets.HOSTINGER_SFTP_PORT || 65002 }}
+          protocol: ${{ secrets.HOSTINGER_PROTOCOL || 'sftp' }}
+          local-dir: ./_site/
+          server-dir: ${{ secrets.HOSTINGER_SFTP_REMOTE_DIR || 'public_html/' }}
+          dangerous-clean-slate: false
+          dry-run: ${{ github.event.inputs.dry_run || false }}
+          log-level: standard

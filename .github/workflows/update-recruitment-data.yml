@@ -1,0 +1,128 @@
+name: Scheduled Recruitment Data Pipeline & Hostinger Deploy
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (11:30 AM IST)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      force_deploy:
+        description: 'Force deployment to Hostinger even if no data changes detected'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: hostinger-production-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: write # Required to commit and push updated data/jobs.json and js/data.js
+
+jobs:
+  collect-validate-publish:
+    name: 1. Collect, Validate, Test & Publish
+    runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.check_changes.outputs.has_changes }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 1-5: Collect, validate, preserve historical, generate jobs.json & data.js
+      - name: Run Recruitment Data Pipeline
+        run: |
+          python pipeline/run_pipeline.py
+
+      # Step 6: Run Automated Tests & Regression Audit
+      - name: Run Production-Readiness Audit Checks
+        run: |
+          python pipeline/audit_check.py
+
+      # Step 7: Commit Approved Changes (with [skip ci] to prevent workflow loops)
+      - name: Detect Changes and Commit Approved Dataset
+        id: check_changes
+        run: |
+          git config --global user.name "GovtJobKhoj Automation Bot"
+          git config --global user.email "bot@govtjobkhoj.com"
+
+          # Stage verified data files only
+          git add data/jobs.json js/data.js data/historical_jobs.json data/pending_review.json
+
+          if git diff --staged --quiet; then
+            echo "No new notices or deadline updates detected. Working tree is clean."
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Auto-update: Verified official recruitment dataset [$TIMESTAMP] [skip ci]"
+            git push
+            echo "Successfully pushed updated dataset to repository."
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy-to-hostinger:
+    name: 2. Deploy to Hostinger
+    needs: collect-validate-publish
+    if: |
+      always() &&
+      needs.collect-validate-publish.result == 'success' &&
+      (needs.collect-validate-publish.outputs.has_changes == 'true' || github.event.inputs.force_deploy == 'true')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Step 8: Prepare Production Distribution Payload
+      - name: Package Clean Production Distribution (_site/)
+        run: |
+          python pipeline/prepare_dist.py
+
+      # Verify Secrets Configuration
+      - name: Check Hostinger Deployment Credentials
+        id: verify_credentials
+        run: |
+          if [ -z "${{ secrets.HOSTINGER_SFTP_HOST }}" ] || [ -z "${{ secrets.HOSTINGER_SFTP_USERNAME }}" ]; then
+            echo "::warning title=Hostinger Credentials Not Configured::Hostinger SFTP secrets (HOSTINGER_SFTP_HOST, HOSTINGER_SFTP_USERNAME) are not configured in GitHub repository secrets. Deployment skipped."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Hostinger deployment credentials detected."
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Step 9: Deploy via SFTP / FTPS without deleting unrelated files
+      - name: Deploy to Hostinger Web Root
+        if: steps.verify_credentials.outputs.configured == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.HOSTINGER_SFTP_HOST }}
+          username: ${{ secrets.HOSTINGER_SFTP_USERNAME }}
+          password: ${{ secrets.HOSTINGER_SFTP_PASSWORD }}
+          ssh-private-key: ${{ secrets.HOSTINGER_SFTP_KEY }}
+          port: ${{ secrets.HOSTINGER_SFTP_PORT || 65002 }}
+          protocol: ${{ secrets.HOSTINGER_PROTOCOL || 'sftp' }}
+          local-dir: ./_site/
+          server-dir: ${{ secrets.HOSTINGER_SFTP_REMOTE_DIR || 'public_html/' }}
+          dangerous-clean-slate: false
+          log-level: standard

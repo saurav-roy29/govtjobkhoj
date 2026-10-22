@@ -1,0 +1,48 @@
+# ==============================================================================
+# GovtJobKhoj — Git Ignore Rules
+# ==============================================================================
+
+# Build & deployment staging directories
+_site/
+dist/
+build/
+
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local environment & secrets
+.env
+*.pem
+*.key
+*.cert
+*.id_rsa
+
+# Temporary & scratch files
+*.log
+scratch/
+.tmp/
+tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# External backup / original site archive
+govtjobkhoj-original/
