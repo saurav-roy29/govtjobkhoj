@@ -4,6 +4,820 @@
  */
 window.GJK_JOBS_DATA = [
   {
+    "id": 228,
+    "title": "Marks of Recommended Candidates: Combined Geo-Scientist (Main) Examination, 2026",
+    "slug": "1002-marks-of-recommended-candidates-combined-geo-scientist-main-examination-2026",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "Check Official Notice",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Result Declared",
+    "status_label": "Result Announcement",
+    "record_type": "result_announcement",
+    "badge_type": "result",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026/Marks%20of%20Recommended%20Candidates",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Marks of Recommended Candidates: Combined Geo-Scientist (Main) Examination, 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Marks of Recommended Candidates: Combined Geo-Scientist (Main) Examination, 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026/Marks%20of%20Recommended%20Candidates\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026/Marks%20of%20Recommended%20Candidates",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 229,
+    "title": "Interview Details: 74 Posts of Assistant Provident Fund Commissioner, EPFO",
+    "slug": "1003-interview-details-74-posts-of-assistant-provident-fund-commissioner-epfo",
+    "org": "UPSC / Employees' Provident Fund Organisation (EPFO)",
+    "sector": "Central Government",
+    "vacancies": "74",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Published",
+    "status_label": "Official Notification",
+    "record_type": "new_recruitment",
+    "badge_type": "official_notice",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/74 Posts of Assistant Provident Fund Commissioner, EPFO/Interview Details",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Interview Details: 74 Posts of Assistant Provident Fund Commissioner, EPFO</h2>\n<p><strong>Recruiting Authority:</strong> UPSC / Employees' Provident Fund Organisation (EPFO)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 74<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Interview Details: 74 Posts of Assistant Provident Fund Commissioner, EPFO</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/74 Posts of Assistant Provident Fund Commissioner, EPFO/Interview Details\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/74 Posts of Assistant Provident Fund Commissioner, EPFO/Interview Details",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 230,
+    "title": "Addendum Notice: 03 Posts of Law Officer, Government of NCT of Delhi",
+    "slug": "1004-addendum-notice-03-posts-of-law-officer-government-of-nct-of-delhi",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "3",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/03 Posts of Law Officer, Government of NCT of Delhi/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 03 Posts of Law Officer, Government of NCT of Delhi</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 3<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 03 Posts of Law Officer, Government of NCT of Delhi</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/03 Posts of Law Officer, Government of NCT of Delhi/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/03 Posts of Law Officer, Government of NCT of Delhi/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 231,
+    "title": "Addendum Notice: 140 Posts of Assistant Public Prosecutor, Government of NCT of Delhi",
+    "slug": "1005-addendum-notice-140-posts-of-assistant-public-prosecutor-government-of-nct-of-delhi",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "140",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/140 Posts of Assistant Public Prosecutor, Government of NCT of Delhi/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 140 Posts of Assistant Public Prosecutor, Government of NCT of Delhi</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 140<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 140 Posts of Assistant Public Prosecutor, Government of NCT of Delhi</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/140 Posts of Assistant Public Prosecutor, Government of NCT of Delhi/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/140 Posts of Assistant Public Prosecutor, Government of NCT of Delhi/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 232,
+    "title": "Addendum Notice: 05 Posts of Assistant Public Prosecutor in Central Bureau of Investigation",
+    "slug": "1006-addendum-notice-05-posts-of-assistant-public-prosecutor-in-central-bureau-of-investigation",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "5",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/05 Posts of Assistant Public Prosecutor in Central Bureau of Investigation/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 05 Posts of Assistant Public Prosecutor in Central Bureau of Investigation</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 5<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 05 Posts of Assistant Public Prosecutor in Central Bureau of Investigation</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/05 Posts of Assistant Public Prosecutor in Central Bureau of Investigation/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/05 Posts of Assistant Public Prosecutor in Central Bureau of Investigation/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 233,
+    "title": "Addendum Notice: 01 Post of Superintendent (Legal), Ministry of Law and Justice",
+    "slug": "1007-addendum-notice-01-post-of-superintendent-legal-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "1",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/01 Post of Superintendent (Legal), Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 01 Post of Superintendent (Legal), Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 1<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 01 Post of Superintendent (Legal), Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/01 Post of Superintendent (Legal), Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/01 Post of Superintendent (Legal), Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 234,
+    "title": "Addendum Notice: 05 Posts of Assistant Public Prosecutor, Government of Puducherry",
+    "slug": "1008-addendum-notice-05-posts-of-assistant-public-prosecutor-government-of-puducherry",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "5",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/05 Posts of Assistant Public Prosecutor, Government of Puducherry/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 05 Posts of Assistant Public Prosecutor, Government of Puducherry</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 5<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 05 Posts of Assistant Public Prosecutor, Government of Puducherry</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/05 Posts of Assistant Public Prosecutor, Government of Puducherry/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/05 Posts of Assistant Public Prosecutor, Government of Puducherry/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 235,
+    "title": "Addendum Notice: 12 Posts of Legal Officer, Ministry of Civil Aviation",
+    "slug": "1009-addendum-notice-12-posts-of-legal-officer-ministry-of-civil-aviation",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "12",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/12 Posts of Legal Officer, Ministry of Civil Aviation/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 12 Posts of Legal Officer, Ministry of Civil Aviation</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 12<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 12 Posts of Legal Officer, Ministry of Civil Aviation</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/12 Posts of Legal Officer, Ministry of Civil Aviation/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/12 Posts of Legal Officer, Ministry of Civil Aviation/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 236,
+    "title": "Addendum Notice: 18 Posts of Company Prosecutor, Ministry of Corporate Affairs",
+    "slug": "1010-addendum-notice-18-posts-of-company-prosecutor-ministry-of-corporate-affairs",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "18",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/18 Posts of Company Prosecutor, Ministry of Corporate Affairs/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 18 Posts of Company Prosecutor, Ministry of Corporate Affairs</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 18<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 18 Posts of Company Prosecutor, Ministry of Corporate Affairs</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/18 Posts of Company Prosecutor, Ministry of Corporate Affairs/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/18 Posts of Company Prosecutor, Ministry of Corporate Affairs/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 237,
+    "title": "Addendum Notice: 12 Posts of Assistant Legal Adviser, Ministry of Finance",
+    "slug": "1011-addendum-notice-12-posts-of-assistant-legal-adviser-ministry-of-finance",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "12",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/12 Posts of Assistant Legal Adviser, Ministry of Finance/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 12 Posts of Assistant Legal Adviser, Ministry of Finance</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 12<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 12 Posts of Assistant Legal Adviser, Ministry of Finance</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/12 Posts of Assistant Legal Adviser, Ministry of Finance/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/12 Posts of Assistant Legal Adviser, Ministry of Finance/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 238,
+    "title": "Addendum Notice: 01 Post of Prosecutor in Serious Fraud Investigation Office (SFIO)",
+    "slug": "1012-addendum-notice-01-post-of-prosecutor-in-serious-fraud-investigation-office-sfio",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "1",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/01 Post of Prosecutor in Serious Fraud Investigation Office (SFIO)/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 01 Post of Prosecutor in Serious Fraud Investigation Office (SFIO)</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 1<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 01 Post of Prosecutor in Serious Fraud Investigation Office (SFIO)</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/01 Post of Prosecutor in Serious Fraud Investigation Office (SFIO)/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/01 Post of Prosecutor in Serious Fraud Investigation Office (SFIO)/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 239,
+    "title": "Addendum Notice: 100 Posts of Examiner of Trade Marks & Geographical Indications",
+    "slug": "1013-addendum-notice-100-posts-of-examiner-of-trade-marks-geographical-indications",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "100",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/100 Posts of Examiner of Trade Marks & Geographical Indications/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 100 Posts of Examiner of Trade Marks & Geographical Indications</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 100<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 100 Posts of Examiner of Trade Marks & Geographical Indications</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/100 Posts of Examiner of Trade Marks & Geographical Indications/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/100 Posts of Examiner of Trade Marks & Geographical Indications/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 240,
+    "title": "Addendum Notice: 02 Posts of Deputy Government Advocate, Ministry of Law and Justice",
+    "slug": "1014-addendum-notice-02-posts-of-deputy-government-advocate-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "2",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/02 Posts of Deputy Government Advocate, Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 02 Posts of Deputy Government Advocate, Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 2<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 02 Posts of Deputy Government Advocate, Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/02 Posts of Deputy Government Advocate, Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/02 Posts of Deputy Government Advocate, Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 241,
+    "title": "Addendum Notice: 01 Post of Assistant Government Advocate, Ministry of Law and Justice",
+    "slug": "1015-addendum-notice-01-post-of-assistant-government-advocate-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "1",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/01 Post of Assistant Government Advocate, Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 01 Post of Assistant Government Advocate, Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 1<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 01 Post of Assistant Government Advocate, Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/01 Post of Assistant Government Advocate, Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/01 Post of Assistant Government Advocate, Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 242,
+    "title": "Addendum Notice: 05 Posts of Additional Government Advocate, Ministry of Law and Justice",
+    "slug": "1016-addendum-notice-05-posts-of-additional-government-advocate-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "5",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/05 Posts of Additional Government Advocate, Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 05 Posts of Additional Government Advocate, Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 5<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 05 Posts of Additional Government Advocate, Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/05 Posts of Additional Government Advocate, Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/05 Posts of Additional Government Advocate, Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 243,
+    "title": "Addendum Notice: 12 Posts of Deputy Legal Adviser, Ministry of Law and Justice",
+    "slug": "1017-addendum-notice-12-posts-of-deputy-legal-adviser-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "12",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/12 Posts of Deputy Legal Adviser, Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 12 Posts of Deputy Legal Adviser, Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 12<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 12 Posts of Deputy Legal Adviser, Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/12 Posts of Deputy Legal Adviser, Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/12 Posts of Deputy Legal Adviser, Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 244,
+    "title": "Addendum Notice: 16 Posts of Assistant Legal Adviser, Ministry of Law and Justice",
+    "slug": "1018-addendum-notice-16-posts-of-assistant-legal-adviser-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "16",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/16 Posts of Assistant Legal Adviser, Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 16 Posts of Assistant Legal Adviser, Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 16<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 16 Posts of Assistant Legal Adviser, Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/16 Posts of Assistant Legal Adviser, Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/16 Posts of Assistant Legal Adviser, Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 245,
+    "title": "Addendum Notice: 02 Post of Additional Legal Adviser, Ministry of Law and Justice",
+    "slug": "1019-addendum-notice-02-post-of-additional-legal-adviser-ministry-of-law-and-justice",
+    "org": "Union Public Service Commission (UPSC)",
+    "sector": "Central Government",
+    "vacancies": "2",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Update",
+    "status_label": "Addendum / Corrigendum",
+    "record_type": "addendum_corrigendum",
+    "badge_type": "addendum",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Qualifications",
+    "categories": [
+      "Central Govt",
+      "UPSC"
+    ],
+    "official_links": [
+      {
+        "url": "https://www.upsc.gov.in/whats-new/02 Post of Additional Legal Adviser, Ministry of Law and Justice/Addendum Notice",
+        "text": "Official Commission Circular"
+      },
+      {
+        "url": "https://upsconline.nic.in/",
+        "text": "Official UPSC Online Portal (upsconline.nic.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">Addendum Notice: 02 Post of Additional Legal Adviser, Ministry of Law and Justice</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 2<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Addendum Notice: 02 Post of Additional Legal Adviser, Ministry of Law and Justice</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/02 Post of Additional Legal Adviser, Ministry of Law and Justice/Addendum Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://www.upsc.gov.in/whats-new/02 Post of Additional Legal Adviser, Ministry of Law and Justice/Addendum Notice",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 246,
+    "title": "IBPS - SBIRecruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security))Registration From04-Nov-2026",
+    "slug": "1043-ibps-sbirecruitment-of-specialist-cadre-officers-manager-security-deputy-manager-securityregist",
+    "org": "Institute of Banking Personnel Selection (IBPS)",
+    "sector": "Banking",
+    "vacancies": "Refer Official Circular",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Published",
+    "status_label": "Official Notification",
+    "record_type": "new_recruitment",
+    "badge_type": "official_notice",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Degrees",
+    "categories": [
+      "Banks Job",
+      "IBPS"
+    ],
+    "official_links": [
+      {
+        "url": "https://ibpsreg.ibps.in/sbirscooct26/",
+        "text": "Official IBPS Recruitment Cadre Portal"
+      },
+      {
+        "url": "https://www.ibps.in",
+        "text": "Official IBPS Portal (ibps.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">IBPS - SBIRecruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security))Registration From04-Nov-2026</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - SBIRecruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security))Registration From04-Nov-2026</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://ibpsreg.ibps.in/sbirscooct26/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://ibpsreg.ibps.in/sbirscooct26/",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 247,
+    "title": "IBPS - SBIRecruitment of Specialist Cadre Officer (Assistant Manager -Engineer (Fire))Registration From04-Nov-2026",
+    "slug": "1044-ibps-sbirecruitment-of-specialist-cadre-officer-assistant-manager-engineer-fireregistration-fro",
+    "org": "Institute of Banking Personnel Selection (IBPS)",
+    "sector": "Banking",
+    "vacancies": "Refer Official Circular",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Published",
+    "status_label": "Official Notification",
+    "record_type": "new_recruitment",
+    "badge_type": "official_notice",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Degrees",
+    "categories": [
+      "Banks Job",
+      "IBPS"
+    ],
+    "official_links": [
+      {
+        "url": "https://ibpsreg.ibps.in/sbiameoct26/",
+        "text": "Official IBPS Recruitment Cadre Portal"
+      },
+      {
+        "url": "https://www.ibps.in",
+        "text": "Official IBPS Portal (ibps.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">IBPS - SBIRecruitment of Specialist Cadre Officer (Assistant Manager -Engineer (Fire))Registration From04-Nov-2026</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - SBIRecruitment of Specialist Cadre Officer (Assistant Manager -Engineer (Fire))Registration From04-Nov-2026</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://ibpsreg.ibps.in/sbiameoct26/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://ibpsreg.ibps.in/sbiameoct26/",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 248,
+    "title": "IBPS - RSBLRecruitment of Clerk (Junior Officer), Assistant Branch Manager & Assistant Manager-ITRegistration From30-Oct-2026",
+    "slug": "1045-ibps-rsblrecruitment-of-clerk-junior-officer-assistant-branch-manager-assistant-manager-itregis",
+    "org": "Institute of Banking Personnel Selection (IBPS)",
+    "sector": "Banking",
+    "vacancies": "Refer Official Circular",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Published",
+    "status_label": "Official Notification",
+    "record_type": "new_recruitment",
+    "badge_type": "official_notice",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Degrees",
+    "categories": [
+      "Banks Job",
+      "IBPS"
+    ],
+    "official_links": [
+      {
+        "url": "https://ibpsreg.ibps.in/rsblrsep26/",
+        "text": "Official IBPS Recruitment Cadre Portal"
+      },
+      {
+        "url": "https://www.ibps.in",
+        "text": "Official IBPS Portal (ibps.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">IBPS - RSBLRecruitment of Clerk (Junior Officer), Assistant Branch Manager & Assistant Manager-ITRegistration From30-Oct-2026</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - RSBLRecruitment of Clerk (Junior Officer), Assistant Branch Manager & Assistant Manager-ITRegistration From30-Oct-2026</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://ibpsreg.ibps.in/rsblrsep26/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://ibpsreg.ibps.in/rsblrsep26/",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
+    "id": 249,
+    "title": "IBPS - CWCRecruitment of Various PostsRegistration From17-Oct-2026",
+    "slug": "1046-ibps-cwcrecruitment-of-various-postsregistration-from17-oct-2026",
+    "org": "Institute of Banking Personnel Selection (IBPS)",
+    "sector": "Banking",
+    "vacancies": "Refer Official Circular",
+    "last_date": "Refer Official Circular",
+    "publish_date": "2026-11-04",
+    "app_mode": "Online",
+    "status": "Notice Published",
+    "status_label": "Official Notification",
+    "record_type": "new_recruitment",
+    "badge_type": "official_notice",
+    "is_open_vacancy": false,
+    "qualification": "Graduate / Prescribed Degrees",
+    "categories": [
+      "Banks Job",
+      "IBPS"
+    ],
+    "official_links": [
+      {
+        "url": "https://ibpsreg.ibps.in/cwcaug26/",
+        "text": "Official IBPS Recruitment Cadre Portal"
+      },
+      {
+        "url": "https://www.ibps.in",
+        "text": "Official IBPS Portal (ibps.in)"
+      }
+    ],
+    "content_html": "<h2 class=\"wp-block-heading\">IBPS - CWCRecruitment of Various PostsRegistration From17-Oct-2026</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - CWCRecruitment of Various PostsRegistration From17-Oct-2026</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://ibpsreg.ibps.in/cwcaug26/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
+    "source_url": "https://ibpsreg.ibps.in/cwcaug26/",
+    "retrieved_at": "2026-11-04T14:08:19.256360+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
+    "verification_status": "verified_official",
+    "is_historical": false
+  },
+  {
     "id": 226,
     "title": "IBPS - Advertisement for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis",
     "slug": "1046-ibps-advertisement-for-direct-recruitment-of-server-administrator-assistant-programming-assista",
@@ -36,7 +850,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS - Advertisement for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - Advertisement for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/wp-content/uploads/Advertisement-for-Server-Administrator-Programming-Assistant-and-Assistant-Oct._Nov.-2026.pdf\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/wp-content/uploads/Advertisement-for-Server-Administrator-Programming-Assistant-and-Assistant-Oct._Nov.-2026.pdf",
     "retrieved_at": "2026-10-29T12:41:27.253886+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -73,7 +887,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS - Apply Online for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - Apply Online for Direct Recruitment of Server Administrator, Assistant & Programming Assistant on Regular Basis</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://ibpsreg.ibps.in/ibpsafeb26/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://ibpsreg.ibps.in/ibpsafeb26/",
     "retrieved_at": "2026-10-29T12:41:27.253886+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -110,7 +924,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Written Result (with name): Combined Defence Services Examination (II), 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Written Result (with name): Combined Defence Services Examination (II), 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202026/Written%20Result%20%28with%20name%29\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202026/Written%20Result%20%28with%20name%29",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -147,7 +961,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Examination Time Table: Combined Geo-Scientist (Preliminary) Examination, 2027</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Examination Time Table: Combined Geo-Scientist (Preliminary) Examination, 2027</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202027/Examination%20Time%20Table\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Preliminary%29%20Examination%2C%202027/Examination%20Time%20Table",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -184,7 +998,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Written Result: 08 Posts of Administrative Officer Grade - I, Ministry of Defence</h2>\n<p><strong>Recruiting Authority:</strong> UPSC / Ministry of Defence<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 8<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Written Result: 08 Posts of Administrative Officer Grade - I, Ministry of Defence</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/08 Posts of Administrative Officer Grade - I, Ministry of Defence/Written Result\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/08 Posts of Administrative Officer Grade - I, Ministry of Defence/Written Result",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -221,7 +1035,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Written Result: 19 Posts of Manager Grade - I - Section Officer, Ministry of Defence</h2>\n<p><strong>Recruiting Authority:</strong> UPSC / Ministry of Defence<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 19<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Written Result: 19 Posts of Manager Grade - I - Section Officer, Ministry of Defence</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/19 Posts of Manager Grade - I - Section Officer, Ministry of Defence/Written Result\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/19 Posts of Manager Grade - I - Section Officer, Ministry of Defence/Written Result",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -258,7 +1072,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Written Result: Combined Defence Services Examination (II), 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Written Result: Combined Defence Services Examination (II), 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202026/Written%20Result\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Combined%20Defence%20Services%20Examination%20%28II%29%2C%202026/Written%20Result",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -295,7 +1109,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Notice: 04 Posts of Homoeopathic Physician in NDMC</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 4<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Notice: 04 Posts of Homoeopathic Physician in NDMC</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/04 Posts of Homoeopathic Physician in NDMC/Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/04 Posts of Homoeopathic Physician in NDMC/Notice",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -332,7 +1146,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Final Result: Combined Geo-Scientist (Main) Examination, 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Final Result: Combined Geo-Scientist (Main) Examination, 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026/Final%20Result\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026/Final%20Result",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -358,7 +1172,7 @@ window.GJK_JOBS_DATA = [
     ],
     "official_links": [
       {
-        "url": "https://www.upsc.gov.in/whats-new/704 Posts of Vice-Principal in Education department, GNCTD/Notice",
+        "url": "https://www.upsc.gov.in/whats-new/704 Posts of Vice-Principal in Education Department, GNCTD/Notice",
         "text": "Official Commission Circular"
       },
       {
@@ -369,7 +1183,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Notice: 704 Posts of Vice-Principal in Education department, GNCTD</h2>\n<p><strong>Recruiting Authority:</strong> UPSC / Education Department, GNCTD<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 704<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Notice: 704 Posts of Vice-Principal in Education department, GNCTD</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/704 Posts of Vice-Principal in Education department, GNCTD/Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/704 Posts of Vice-Principal in Education department, GNCTD/Notice",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -406,7 +1220,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Notice: 124 Posts of Principal in Education Department, GNCTD</h2>\n<p><strong>Recruiting Authority:</strong> UPSC / Education Department, GNCTD<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 124<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Notice: 124 Posts of Principal in Education Department, GNCTD</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/124 Posts of Principal in Education Department, GNCTD/Notice\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/124 Posts of Principal in Education Department, GNCTD/Notice",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -443,7 +1257,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Interview Schedule: Indian Economic Service - Indian Statistical Service Examination, 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Interview Schedule: Indian Economic Service - Indian Statistical Service Examination, 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202026/Interview%20Schedule\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Indian%20Economic%20Service%20-%20Indian%20Statistical%20Service%20Examination%2C%202026/Interview%20Schedule",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -480,7 +1294,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Written Result (with name): National Defence Academy and Naval Academy Examination (II), 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Written Result (with name): National Defence Academy and Naval Academy Examination (II), 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202026/Written%20Result%20%28with%20name%29\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202026/Written%20Result%20%28with%20name%29",
     "retrieved_at": "2026-10-26T12:37:26.534505+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -1727,7 +2541,7 @@ window.GJK_JOBS_DATA = [
     ],
     "official_links": [
       {
-        "url": "https://www.upsc.gov.in/whats-new/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202025/Marks%20of%20Recommended%20Candidates",
+        "url": "https://www.upsc.gov.in/whats-new/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202024/Marks%20of%20Recommended%20Candidates",
         "text": "Official Commission Circular"
       },
       {
@@ -1738,7 +2552,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Marks of Recommended Candidates: Central Armed Police Forces (ACs) Examination, 2025</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Marks of Recommended Candidates: Central Armed Police Forces (ACs) Examination, 2025</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202025/Marks%20of%20Recommended%20Candidates\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202025/Marks%20of%20Recommended%20Candidates",
     "retrieved_at": "2026-10-23T11:21:09.741026+00:00",
-    "last_verified_at": "2026-11-03T13:56:43.525255+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -2071,7 +2885,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP-SPL-XVI Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP-SPL-XVI Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"http://ibpsreg.ibps.in/crpspxvimy26/presta_oct26/login.php?appid=f8a5692529ba20a12e158903a42a917c\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "http://ibpsreg.ibps.in/crpspxvimy26/presta_oct26/login.php?appid=f8a5692529ba20a12e158903a42a917c",
     "retrieved_at": "2026-10-23T11:21:09.741026+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -2219,7 +3033,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Clarification for the post of Assistant Public Prosecutor in Delhi, vide Advt. No. 11 - 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Clarification for the post of Assistant Public Prosecutor in Delhi, vide Advt. No. 11 - 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/sites/default/files/AssttPublProseGNCTD-Notice-Engl-170926Rev.pdf\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/sites/default/files/AssttPublProseGNCTD-Notice-Engl-170926Rev.pdf",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -2256,7 +3070,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Written Result: National Defence Academy and Naval Academy Examination (II), 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Written Result: National Defence Academy and Naval Academy Examination (II), 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202026/Written%20Result\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202026/Written%20Result",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -2293,7 +3107,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Final Result: 363 Posts of Principal in Education Department, GNCTD</h2>\n<p><strong>Recruiting Authority:</strong> UPSC / Education Department, GNCTD<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> 363<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Final Result: 363 Posts of Principal in Education Department, GNCTD</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/363 Posts of Principal in Education Department, GNCTD/Final Result\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/363 Posts of Principal in Education Department, GNCTD/Final Result",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -2811,7 +3625,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Interview Schedule: Combined Medical Services Examination, 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Interview Schedule: Combined Medical Services Examination, 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Combined%20Medical%20Services%20Examination%2C%202026/Interview%20Schedule\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Combined%20Medical%20Services%20Examination%2C%202026/Interview%20Schedule",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3033,7 +3847,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">Examination Time Table: Indian Forest Service (Main) Examination, 2026</h2>\n<p><strong>Recruiting Authority:</strong> Union Public Service Commission (UPSC)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.upsc.gov.in\" target=\"_blank\" rel=\"noopener\">upsc.gov.in</a> &bull; <a href=\"https://upsconline.nic.in\" target=\"_blank\" rel=\"noopener\">upsconline.nic.in</a><br>\n<strong>Total Vacancies:</strong> Check Official Notice<br>\n<strong>Application / Verification Mode:</strong> Online Official Commission Verification</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Circular Summary</h3>\n<p>The Union Public Service Commission (UPSC) has officially published the circular regarding <strong>Examination Time Table: Indian Forest Service (Main) Examination, 2026</strong>. Candidates are required to download the authentic official notification circular and verify eligibility criteria, examination scheme, and guidelines directly from the authorized Commission portal.</p>\n\n<h3 class=\"wp-block-heading\">Authoritative Official Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Circular Document:</strong> <a href=\"https://www.upsc.gov.in/whats-new/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202026/Examination%20Time%20Table\" target=\"_blank\" rel=\"noopener\">Click Here to View Official Notice</a></li>\n<li><strong>UPSC Candidate Portal:</strong> <a href=\"https://upsconline.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here for upsconline.nic.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.upsc.gov.in/whats-new/Indian%20Forest%20Service%20%28Main%29%20Examination%2C%202026/Examination%20Time%20Table",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-10-27T11:54:28.793458+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3292,7 +4106,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP CSA(Customer Service Associates) Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP CSA(Customer Service Associates) Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/clerical-cadre/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/clerical-cadre/",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3329,7 +4143,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP PO/MTs Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP PO/MTs Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/management-trainees/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/management-trainees/",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3366,7 +4180,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP Specialist Officers Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP Specialist Officers Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/specialist-officers/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/specialist-officers/",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3403,7 +4217,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS - Online Exam Call Letter for the post of Hindi Officer</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - Online Exam Call Letter for the post of Hindi Officer</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/careers/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/careers/",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3551,7 +4365,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS - NITRecruitment of Non-Faculty PositionRegistration From01-Oct-2026</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - NITRecruitment of Non-Faculty PositionRegistration From01-Oct-2026</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://ibpsreg.ibps.in/nitrjul26/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://ibpsreg.ibps.in/nitrjul26/",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-10-30T12:32:51.543438+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3625,7 +4439,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS - RECRUITMENT EXAMS</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - RECRUITMENT EXAMS</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/recruitment/\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/recruitment/",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3662,7 +4476,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP - RRBs Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP - RRBs Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/regional-rural-bank\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/regional-rural-bank",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3699,7 +4513,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP - CLERKS Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP - CLERKS Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/clerical-cadre\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/clerical-cadre",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3736,7 +4550,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP - PO/MTs Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP - PO/MTs Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/management-trainees\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/management-trainees",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3773,7 +4587,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS CRP - SPECIALIST OFFICERS Recruitment</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS CRP - SPECIALIST OFFICERS Recruitment</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/specialist-officers\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/specialist-officers",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
@@ -3810,7 +4624,7 @@ window.GJK_JOBS_DATA = [
     "content_html": "<h2 class=\"wp-block-heading\">IBPS - Personnel Selection Services for Recruitment, Promotion and Placement</h2>\n<p><strong>Recruiting Organization:</strong> Institute of Banking Personnel Selection (IBPS)<br>\n<strong>Official Portal:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">ibps.in</a><br>\n<strong>Sector:</strong> Public Sector Banking<br>\n<strong>Application / Candidate Mode:</strong> Online Official Registration Portal</p>\n\n<h3 class=\"wp-block-heading\">Recruitment Notification Overview</h3>\n<p>The Institute of Banking Personnel Selection (IBPS) has published official circular notifications regarding <strong>IBPS - Personnel Selection Services for Recruitment, Promotion and Placement</strong> for candidate recruitments across participating nationalized and regional rural banks. Eligible applicants must review the detailed official brochure, educational requirements, age criteria, and participating bank vacancy schedules directly on the authorized IBPS website.</p>\n\n<h3 class=\"wp-block-heading\">Authorized Verification & Application Links</h3>\n<ul class=\"wp-block-list\">\n<li><strong>Official Notification / Circular:</strong> <a href=\"https://www.ibps.in/index.php/services\" target=\"_blank\" rel=\"noopener\">Click Here for Official IBPS Notification</a></li>\n<li><strong>Authorized IBPS Homepage:</strong> <a href=\"https://www.ibps.in\" target=\"_blank\" rel=\"noopener\">Click Here for ibps.in</a></li>\n</ul>\n<p></p>",
     "source_url": "https://www.ibps.in/index.php/services",
     "retrieved_at": "2026-10-12T05:25:21.872992+00:00",
-    "last_verified_at": "2026-11-02T15:20:05.589296+00:00",
+    "last_verified_at": "2026-11-04T14:08:19.256360+00:00",
     "verification_status": "verified_official",
     "is_historical": false
   },
